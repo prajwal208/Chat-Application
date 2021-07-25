@@ -10,7 +10,7 @@ function Navbar( { room } ) {
                     </div>
 
                     <div className="clsbtn">
-                        <a href='/'>&#x2716;</a>
+                        <a href='/Chat-Application'>&#x2716;</a>
                     </div>
                 </div>
                 
